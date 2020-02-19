@@ -1,4 +1,4 @@
-Datamaps
+Datamaps 
 ======
 
 [![Join the chat at https://gitter.im/markmarkoh/datamaps](https://badges.gitter.im/markmarkoh/datamaps.svg)](https://gitter.im/markmarkoh/datamaps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
